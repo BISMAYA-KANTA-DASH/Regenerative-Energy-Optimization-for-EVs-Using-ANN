@@ -265,13 +265,13 @@ Metric values should be added to this README only after evaluating the actual tr
 
 The following technologies are suitable for implementing the project; retain only the ones actually used.
 
-# Programming language: Python
-# Machine learning: Artificial Neural Networks
-# Data processing: Pandas, NumPy
-# Model development: TensorFlow/Keras or PyTorch
-# Data preprocessing and evaluation: Scikit-learn
-# Visualization: Matplotlib and Seaborn
-# Development environment: Jupyter Notebook or Google Colab
+ Programming language: Python
+ Machine learning: Artificial Neural Networks
+ Data processing: Pandas, NumPy
+ Model development: TensorFlow/Keras or PyTorch
+ Data preprocessing and evaluation: Scikit-learn
+ Visualization: Matplotlib and Seaborn
+ Development environment: Jupyter Notebook or Google Colab
 
 ## 11. Suggested Repository Structure
 
@@ -322,9 +322,8 @@ source venv/bin/activate
 ### Install dependencies
 
 Create a `requirements.txt` file containing the libraries required by your implementation. For example:
-
-# text, numpy, pandas, scikit-learn, matplotlib, seaborn, tensorflow 
-# Install the dependencies: pip install -r requirements.txt
+text, numpy, pandas, scikit-learn, matplotlib, seaborn, tensorflow 
+Install the dependencies: pip install -r requirements.txt
 
 If the implementation uses PyTorch instead of TensorFlow, install the appropriate PyTorch package and remove unused dependencies.
 
@@ -379,9 +378,9 @@ This project explores the use of Artificial Neural Networks for estimating regen
 Further validation using representative vehicle data and physical operating constraints is necessary before making claims about real-world energy savings or deploying the model in a vehicle.
 
 ## 18. Author
-# Bismaya Kanta Dash
-# B.Tech in Computer Science and Engineering, KIIT University
-# GitHub: https://github.com/BISMAYA-KANTA-DASH
+ Bismaya Kanta Dash
+ B.Tech in Computer Science and Engineering, KIIT University
+ GitHub: https://github.com/BISMAYA-KANTA-DASH
 
 ---
 
