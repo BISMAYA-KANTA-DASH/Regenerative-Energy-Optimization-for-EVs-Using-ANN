@@ -1,5 +1,6 @@
 # Regenerative-Energy-Optimization-for-EVs-Using-ANN
-# Developed an ANN-based approach to optimize regenerative braking energy in electric vehicles by analyzing vehicle operating parameters and estimating recoverable kinetic energy. Focused on improving energy recovery efficiency and supporting battery energy management.
+Developed an ANN-based approach to optimize regenerative braking energy in electric vehicles by analyzing vehicle operating parameters and estimating recoverable kinetic energy. Focused on improving energy recovery efficiency and supporting battery energy management.
+
 # Regenerative Energy Optimization for Electric Vehicles Using ANN
 
 ## 1. Project Overview
